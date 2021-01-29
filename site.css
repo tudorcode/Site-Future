@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+.rolls{
+    width:49.8%;
+    height: 450px;
+}
+.tesla{
+    width:49.8%;
+    height: 450px;
+}
+.mercedes{
+    width:49.8%;
+    height: 450px;
+}
+.companie{
+    width:49.8%;
+    height: 450px;
+}
+.imaginirolls{
+    background-color: black;
+}
+.imaginitesla{
+    background-color: black;
+}
+.imaginimercedes{
+    background-color: black;
+}
+.imaginicompanie{
+    background-color: rgb(172, 73, 37);
+}
+.obiective{
+    font-size:0.7cm;
+    margin-left: 5%;
+}
